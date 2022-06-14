@@ -1,0 +1,10 @@
+Récupération d'adresses dans un mail d'arnaque aux message vocaux déposés sur des mobiles
+
+From: <gun@exultet-solutions.com>
+Date: Fri, 11 Dec 2020 02:54:02 +0000
+Subject: Re:
+Message-ID: <fJLRmgswV-1782600@contact.becquet.fr>
+To: <stephanie.bouthors@orange.fr,frederic.chalvignac@orange.fr,nicole.hamelin049@orange.fr,sylvia.renard@orange.fr,tcvion@orange.fr,stephanie0025@orange.fr,roberto.llorca@orange.fr,jcmeiller@orange.fr,mariotti.p-louis@orange.fr,magali-martins@orange.fr,michaelescoffier@orange.fr,thomas.automobiles1@orange.fr,pascouvel71@orange.fr,marie.devaux129@orange.fr,fd.biton@orange.fr,mission.boisperche@orange.fr,gerard.vagnard@orange.fr,qualite.breizhusinage@orange.fr,smaulucci@orange.fr,hassan.manar31@orange.fr,yannick.strugeon@orange.fr,bleuablanc@orange.fr,anne-florenc.sagnimorte@orange.fr,mp.pilet@orange.fr,lanfrey-regis@orange.fr,rolin.annelise@orange.fr,meggiolaro.serge@orange.fr,carlettif@orange.fr,antonymary@orange.fr,becu.michel@orange.fr,tomahoc05@orange.fr,roselyne.thebault@orange.fr,exilie.guylaine@orange.fr,ludovic.buillit@orange.fr,pinsondaniel@orange.fr,guy.amblard@orange.fr,metallerieallemand25@orange.fr,jeanlouis.gagne@orange.fr,nathalie-maron@orange.fr,azor-57@orange.fr,guittet.eliane@orange.fr,jeanteix@orange.fr,carole.thoret@orange.fr,lecacheux.stephane@orange.fr,karen.nicolello@orange.fr,miguez.angel@orange.fr,gilles.decaix@orange.fr,gillesbarry@orange.fr,sortiesdateliers@orange.fr,betty.leroy@orange.fr,ketty73@orange.fr,madeleine.duchossoy@orange.fr,pascaleliautaud@orange.fr,martelzhang69@orange.fr,pierre.delon82@orange.fr,bruno.grutier@orange.fr,eliane.deco38@orange.fr,clairegabrielle.noel@orange.fr,bruno.ca@orange.fr,patrick.dubau888@orange.fr>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
